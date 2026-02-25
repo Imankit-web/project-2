@@ -1,5 +1,5 @@
 // Select elements
-let boxes = document.querySelectorAll("#box");
+let boxes = document.querySelectorAll(".box");
 let resetgamebtn = document.querySelector("#resetbtn");
 let newgamebtn = document.querySelectorAll(".newbtn");
 let msg = document.querySelector("#msg");
