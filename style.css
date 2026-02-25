@@ -72,7 +72,7 @@ body{
   font-weight: bold;
 }
 .msg-container{
-  height: 190vmin;
+  height: 100vmin;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -80,7 +80,7 @@ body{
   gap: 2rem;
 }
 .draw-msg-container{
-  height: 190vmin;
+  height: 100vmin;
   display: flex;
   justify-content: center;
   align-items: center;
